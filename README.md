@@ -15,7 +15,7 @@ A freelancer, full time developer and occasionally a gamer. Working in Software 
 
 [1]: https://www.facebook.com/profile.php?id=100003672562289
 [2]: https://twitter.com/Waleed_AhmedB
-[3]: https://www.linkedin.com/in/waleed-ahmed-1936851b5
+[3]: https://www.linkedin.com/in/waleed-ahmedb
 
 ## Tech Stack
 |Domain            | Technologies   | Technologies
